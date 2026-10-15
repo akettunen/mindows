@@ -67,8 +67,9 @@ The build also creates `mindows.c` and a `build/` folder. You can delete them af
 
 To run mindows every time you open PowerShell, add this line to your profile. Open it with `notepad $PROFILE` (create it first if it doesn't exist):
 
+Example:
 ```
-python "C:\your_path\your_path\mindows\run.py"
+python "C:\Users\user\mindows-folder\run.py"
 ```
 
 ## Project structure
