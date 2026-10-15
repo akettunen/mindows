@@ -105,5 +105,5 @@ Found a bug or have a suggestion? Open an issue at https://github.com/akettunen/
 
 ## Credits & Copyright
 
-# [akettunen](https://github.com/akx25) copyright 2026
+# [akettunen](https://github.com/akettunen) copyright 2026
 
