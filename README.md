@@ -95,6 +95,7 @@ mindows/
 
 ### V1.2
 ### CPython
++ This version is a lot smaller and more like mini fetch
 <img width="298" height="88" alt="v1 2" src="https://github.com/user-attachments/assets/6439c6df-3d93-47b1-9c59-d9a97aba7fbd" />
 
 ## Issues
