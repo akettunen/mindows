@@ -1,3 +1,5 @@
+# akettunen copyright 2026
+# This is just an helper file or something
 from setuptools import setup
 from Cython.Build import cythonize
 
