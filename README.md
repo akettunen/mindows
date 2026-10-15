@@ -101,6 +101,8 @@ mindows/
 
 Found a bug or have a suggestion? Open an issue at https://github.com/akettunen/mindows/issues or run `python run.py --issue`.
 
-## Credits
+## Credits & Copyright
 
-Originally created by [akx25](https://github.com/akx25/mindows).
+Originally created by [akettunen](https://github.com/akx25).
+# akettunen copyright 2026
+
