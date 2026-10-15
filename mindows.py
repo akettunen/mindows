@@ -1,3 +1,5 @@
+# akettunen copyright 2026
+
 import argparse
 import platform
 
