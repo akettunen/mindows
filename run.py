@@ -1,0 +1,2 @@
+import mindows
+mindows.main()
